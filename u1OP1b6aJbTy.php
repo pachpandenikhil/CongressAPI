@@ -9,8 +9,20 @@ switch ($operation) {
                 $url = "./data/legislators.json";
                 echo file_get_contents($url, FILE_USE_INCLUDE_PATH);
                 break;
-    		case "committees":
-                $url = "./data/committees.json";
+            case "houseLegislators":
+                $url = "./data/house_legislators.json";
+                echo file_get_contents($url, FILE_USE_INCLUDE_PATH);
+                break;
+            case "senateLegislators":
+                $url = "./data/senate_legislators.json";
+                echo file_get_contents($url, FILE_USE_INCLUDE_PATH);
+                break;
+            case "activeBills":
+                $url = "./data/active_bills.json";
+                echo file_get_contents($url, FILE_USE_INCLUDE_PATH);
+                break;
+            case "newBills":
+                $url = "./data/new_bills.json";
                 echo file_get_contents($url, FILE_USE_INCLUDE_PATH);
                 break;
 		    case "bills":
@@ -24,6 +36,23 @@ switch ($operation) {
                 $final_result = "{\"results\":" . json_encode($merged_result) . "}";
                 echo $final_result;
 		        break;
+            case "committees":
+                $url = "./data/committees.json";
+                echo file_get_contents($url, FILE_USE_INCLUDE_PATH);
+                break;
+            case "houseCommittees":
+                $url = "./data/house_committees.json";
+                echo file_get_contents($url, FILE_USE_INCLUDE_PATH);
+                break;
+            case "senateCommittees":
+                $url = "./data/senate_committees.json";
+                echo file_get_contents($url, FILE_USE_INCLUDE_PATH);
+                break;
+            case "jointCommittees":
+                $url = "./data/joint_committees.json";
+                echo file_get_contents($url, FILE_USE_INCLUDE_PATH);
+                break;
+
     	}
 
         break;
