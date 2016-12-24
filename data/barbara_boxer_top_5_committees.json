@@ -1,0 +1,43 @@
+{
+   "results":[
+      {
+         "chamber":"senate",
+         "committee_id":"SSFR14",
+         "name":"State Department and USAID Management, International Operations, and Bilateral International Development",
+         "parent_committee_id":"SSFR",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSFR15",
+         "name":"Multilateral International Development, Multilateral Institutions, and International Economic, Energy, and Environmental Policy",
+         "parent_committee_id":"SSFR",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SLET",
+         "name":"Senate Select Committee on Ethics",
+         "subcommittee":false
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSEV",
+         "name":"Senate Committee on Environment and Public Works",
+         "subcommittee":false
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSEV15",
+         "name":"Fisheries, Water, and Wildlife",
+         "parent_committee_id":"SSEV",
+         "subcommittee":true
+      }
+   ],
+   "count":11,
+   "page":{
+      "count":5,
+      "per_page":5,
+      "page":1
+   }
+}

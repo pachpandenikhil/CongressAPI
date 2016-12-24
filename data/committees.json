@@ -1,0 +1,1706 @@
+{
+   "results":[
+      {
+         "chamber":"senate",
+         "committee_id":"SSGA18",
+         "name":"Federal Spending Oversight and Emergency Management",
+         "parent_committee_id":"SSGA",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSGA15",
+         "name":"Financial and Contracting Oversight",
+         "parent_committee_id":"SSGA",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSGA17",
+         "name":"Emergency Management, Intergovernmental Relations, and the District of Columbia",
+         "parent_committee_id":"SSGA",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSGA01",
+         "name":"Permanent Subcommittee on Investigations",
+         "parent_committee_id":"SSGA",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSFR14",
+         "name":"State Department and USAID Management, International Operations, and Bilateral International Development",
+         "parent_committee_id":"SSFR",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSFR15",
+         "name":"Multilateral International Development, Multilateral Institutions, and International Economic, Energy, and Environmental Policy",
+         "parent_committee_id":"SSFR",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSFR13",
+         "name":"International Operations and Organizations, Human Rights, Democracy, and Global Women's Issues",
+         "parent_committee_id":"SSFR",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSFR12",
+         "name":"International Development and Foreign Assistance, Economic Affairs, International Environmental Protection, and Peace Corps",
+         "parent_committee_id":"SSFR",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSFI11",
+         "name":"Taxation and IRS Oversight",
+         "parent_committee_id":"SSFI",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSFI14",
+         "name":"Fiscal Responsibility and Economic Growth",
+         "parent_committee_id":"SSFI",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSEV18",
+         "name":"Oversight",
+         "parent_committee_id":"SSEV",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSEV16",
+         "name":"Green Jobs and the New Economy",
+         "parent_committee_id":"SSEV",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSCM24",
+         "name":"Space, Science, and Competitiveness",
+         "parent_committee_id":"SSCM",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSCM27",
+         "name":"Tourism, Competitiveness, and Innovation",
+         "parent_committee_id":"SSCM",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSAF17",
+         "name":"Livestock, Marketing and Agriculture Security",
+         "parent_committee_id":"SSAF",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSAF16",
+         "name":"Nutrition, Specialty Crops, and Agricultural Research",
+         "parent_committee_id":"SSAF",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSAF15",
+         "name":"Rural Development and Energy",
+         "parent_committee_id":"SSAF",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSAF14",
+         "name":"Conservation, Forestry and Natural Resources",
+         "parent_committee_id":"SSAF",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSAF13",
+         "name":"Commodities, Risk Management and Trade",
+         "parent_committee_id":"SSAF",
+         "subcommittee":true
+      },
+      {
+         "chamber":"joint",
+         "committee_id":"JSTX",
+         "name":"Joint Committee on Taxation",
+         "subcommittee":false
+      },
+      {
+         "chamber":"joint",
+         "committee_id":"JSPR",
+         "name":"Joint Committee on Printing",
+         "subcommittee":false
+      },
+      {
+         "chamber":"joint",
+         "committee_id":"JSLC",
+         "name":"Joint Committee on the Library",
+         "subcommittee":false
+      },
+      {
+         "chamber":"joint",
+         "committee_id":"JSEC",
+         "name":"Joint Economic Committee",
+         "subcommittee":false
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HLZI",
+         "name":"House Select Committee on the Events Surrounding the 2012 Terrorist Attack in Benghazi",
+         "office":"1036 LHOB",
+         "phone":"(202) 226-7100",
+         "subcommittee":false
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSSM27",
+         "name":"Economic Growth, Tax and Capital Access",
+         "parent_committee_id":"HSSM",
+         "phone":"(202) 225-5821",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSSM26",
+         "name":"Health and Technology",
+         "parent_committee_id":"HSSM",
+         "phone":"(202) 225-5821",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSSM25",
+         "name":"Agriculture, Energy and Trade",
+         "parent_committee_id":"HSSM",
+         "phone":"(202) 225-5821",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HLIG04",
+         "name":"Department of Defense Intelligence and Overhead Architecture",
+         "parent_committee_id":"HLIG",
+         "phone":"(202) 225-4121",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HLIG03",
+         "name":"Emerging Threats",
+         "parent_committee_id":"HLIG",
+         "phone":"(202) 225-4121",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HLIG08",
+         "name":"Terrorism, Human Intelligence, Analysis, and Counterintelligence",
+         "parent_committee_id":"HLIG",
+         "phone":"(202) 225-4121",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HLIG05",
+         "name":"Technical and Tactical Intelligence",
+         "parent_committee_id":"HLIG",
+         "phone":"(202) 225-4121",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HLIG09",
+         "name":"Oversight and Investigations",
+         "parent_committee_id":"HLIG",
+         "phone":"(202) 225-4121",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSGO29",
+         "name":"Transportation and Public Assets",
+         "parent_committee_id":"HSGO",
+         "phone":"(202) 225-5074",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSAP20",
+         "name":"Transportation, and Housing and Urban Development, and Related Agencies",
+         "parent_committee_id":"HSAP",
+         "phone":"(202) 225-2141",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSAP18",
+         "name":"Military Construction, Veterans Affairs, and Related Agencies",
+         "parent_committee_id":"HSAP",
+         "phone":"(202) 225-3047",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSAP24",
+         "name":"Legislative Branch",
+         "parent_committee_id":"HSAP",
+         "phone":"(202) 226-7252",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSAP15",
+         "name":"Homeland Security",
+         "parent_committee_id":"HSAP",
+         "phone":"(202) 225-5834",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSAP23",
+         "name":"Financial Services and General Government",
+         "parent_committee_id":"HSAP",
+         "phone":"(202) 225-7245",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSAP19",
+         "name":"Commerce, Justice, Science, and Related Agencies",
+         "parent_committee_id":"HSAP",
+         "phone":"(202) 225-3351",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SCNC",
+         "name":"United States Senate Caucus on International Narcotics Control",
+         "subcommittee":false
+      },
+      {
+         "chamber":"joint",
+         "committee_id":"JCSE",
+         "name":"Commission on Security and Cooperation in Europe",
+         "subcommittee":false
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSHM",
+         "name":"House Committee on Homeland Security",
+         "office":"176 FHOB",
+         "phone":"(202) 226-8417",
+         "subcommittee":false
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSHM12",
+         "name":"Emergency Preparedness, Response, and Communications",
+         "parent_committee_id":"HSHM",
+         "phone":"(202) 226-8417",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSHM11",
+         "name":"Border and Maritime Security",
+         "parent_committee_id":"HSHM",
+         "phone":"(202) 226-8417",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSHM09",
+         "name":"Oversight and Management Efficiency",
+         "parent_committee_id":"HSHM",
+         "phone":"(202) 226-8417",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSHM08",
+         "name":"Cybersecurity, Infrastructure Protection, and Security Technologies",
+         "parent_committee_id":"HSHM",
+         "phone":"(202) 226-8417",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSHM07",
+         "name":"Transportation Security",
+         "parent_committee_id":"HSHM",
+         "phone":"(202) 226-8417",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSHM05",
+         "name":"Counterterrorism and Intelligence",
+         "parent_committee_id":"HSHM",
+         "phone":"(202) 226-8417",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSSB",
+         "name":"Senate Committee on Small Business and Entrepreneurship",
+         "subcommittee":false
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SLIA",
+         "name":"Senate Committee on Indian Affairs",
+         "subcommittee":false
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HLIG",
+         "name":"House Permanent Select Committee on Intelligence",
+         "office":"HVC304 CAPITOL",
+         "phone":"(202) 225-4121",
+         "subcommittee":false
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HLIG01",
+         "name":"Central Intelligence Agency",
+         "parent_committee_id":"HLIG",
+         "phone":"(202) 225-4121",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HLIG02",
+         "name":"National Security Agency and Cybersecurity",
+         "parent_committee_id":"HLIG",
+         "phone":"(202) 225-4121",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SLET",
+         "name":"Senate Select Committee on Ethics",
+         "subcommittee":false
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SLIN",
+         "name":"Senate Select Committee on Intelligence",
+         "subcommittee":false
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSSM",
+         "name":"House Committee on Small Business",
+         "office":"2361 RHOB",
+         "phone":"(202) 225-5821",
+         "subcommittee":false
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSSM24",
+         "name":"Investigations, Oversight and Regulations",
+         "parent_committee_id":"HSSM",
+         "phone":"(202) 225-5821",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSSM23",
+         "name":"Contracting and Workforce",
+         "parent_committee_id":"HSSM",
+         "phone":"(202) 225-5821",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSBU",
+         "name":"House Committee on the Budget",
+         "office":"207 CHOB",
+         "phone":"(202) 226-7270",
+         "subcommittee":false
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSVA",
+         "name":"Senate Committee on Veterans' Affairs",
+         "subcommittee":false
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSRA",
+         "name":"Senate Committee on Rules and Administration",
+         "subcommittee":false
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSEV",
+         "name":"Senate Committee on Environment and Public Works",
+         "subcommittee":false
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSEV15",
+         "name":"Fisheries, Water, and Wildlife",
+         "parent_committee_id":"SSEV",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSEV08",
+         "name":"Transportation and Infrastructure",
+         "parent_committee_id":"SSEV",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSEV09",
+         "name":"Superfund, Waste Management, and Regulatory Oversight",
+         "parent_committee_id":"SSEV",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSEV10",
+         "name":"Clean Air and Nuclear Safety",
+         "parent_committee_id":"SSEV",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSHR",
+         "name":"Senate Committee on Health, Education, Labor, and Pensions",
+         "subcommittee":false
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSHR12",
+         "name":"Primary Health and Retirement Security",
+         "parent_committee_id":"SSHR",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSHR09",
+         "name":"Children and Families",
+         "parent_committee_id":"SSHR",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSHR11",
+         "name":"Employment and Workplace Safety",
+         "parent_committee_id":"SSHR",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSJU",
+         "name":"Senate Committee on the Judiciary",
+         "subcommittee":false
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSJU04",
+         "name":"Immigration and the National Interest",
+         "parent_committee_id":"SSJU",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSJU01",
+         "name":"Antitrust, Competition Policy and Consumer Rights",
+         "parent_committee_id":"SSJU",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSJU22",
+         "name":"Crime and Terrorism",
+         "parent_committee_id":"SSJU",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSJU24",
+         "name":"Bankruptcy and the Courts",
+         "parent_committee_id":"SSJU",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSJU25",
+         "name":"Oversight, Agency Action, Federal Rights and Federal Courts",
+         "parent_committee_id":"SSJU",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSJU21",
+         "name":"the Constitution",
+         "parent_committee_id":"SSJU",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSJU23",
+         "name":"Privacy, Technology and the Law",
+         "parent_committee_id":"SSJU",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSEG",
+         "name":"Senate Committee on Energy and Natural Resources",
+         "subcommittee":false
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSEG03",
+         "name":"Public Lands, Forests, and Mining",
+         "parent_committee_id":"SSEG",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSEG01",
+         "name":"Energy",
+         "parent_committee_id":"SSEG",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSEG04",
+         "name":"National Parks",
+         "parent_committee_id":"SSEG",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSEG07",
+         "name":"Water and Power",
+         "parent_committee_id":"SSEG",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSGA",
+         "name":"Senate Committee on Homeland Security and Governmental Affairs",
+         "subcommittee":false
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSGA19",
+         "name":"Regulatory Affairs and Federal Management",
+         "parent_committee_id":"SSGA",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSGA16",
+         "name":"the Efficiency and Effectiveness of Federal Programs and the Federal Workforce",
+         "parent_committee_id":"SSGA",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSFR",
+         "name":"Senate Committee on Foreign Relations",
+         "subcommittee":false
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSFR06",
+         "name":"Western Hemisphere, Transnational Crime, Civilian Security, Democracy, Human Rights, and Global Women's Issues",
+         "parent_committee_id":"SSFR",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSFR07",
+         "name":"Near East, South Asia, Central Asia, and Counterterrorism",
+         "parent_committee_id":"SSFR",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSFR02",
+         "name":"East Asia, the Pacific, and International Cybersecurity Policy",
+         "parent_committee_id":"SSFR",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSFR09",
+         "name":"Africa and Global Health Policy",
+         "parent_committee_id":"SSFR",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSFR01",
+         "name":"Europe and Regional Security Cooperation",
+         "parent_committee_id":"SSFR",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSFI",
+         "name":"Senate Committee on Finance",
+         "subcommittee":false
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSFI10",
+         "name":"Health Care",
+         "parent_committee_id":"SSFI",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSFI02",
+         "name":"Social Security, Pensions, and Family Policy",
+         "parent_committee_id":"SSFI",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSFI13",
+         "name":"International Trade, Customs, and Global Competitiveness",
+         "parent_committee_id":"SSFI",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSFI12",
+         "name":"Energy, Natural Resources, and Infrastructure",
+         "parent_committee_id":"SSFI",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSCM",
+         "name":"Senate Committee on Commerce, Science, and Transportation",
+         "subcommittee":false
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSCM26",
+         "name":"Communications, Technology, Innovation, and the Internet",
+         "parent_committee_id":"SSCM",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSCM25",
+         "name":"Surface Transportation and Merchant Marine Infrastructure, Safety and Security",
+         "parent_committee_id":"SSCM",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSCM22",
+         "name":"Oceans, Atmosphere, Fisheries, and Coast Guard",
+         "parent_committee_id":"SSCM",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSCM20",
+         "name":"Consumer Protection, Product Safety, Insurance, and Data Security",
+         "parent_committee_id":"SSCM",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSCM01",
+         "name":"Aviation Operations, Safety, and Security",
+         "parent_committee_id":"SSCM",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSBU",
+         "name":"Senate Committee on the Budget",
+         "subcommittee":false
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSBK",
+         "name":"Senate Committee on Banking, Housing, and Urban Affairs",
+         "subcommittee":false
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSBK08",
+         "name":"Financial Institutions and Consumer Protection",
+         "parent_committee_id":"SSBK",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSBK09",
+         "name":"Housing, Transportation, and Community Development",
+         "parent_committee_id":"SSBK",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSBK12",
+         "name":"Economic Policy",
+         "parent_committee_id":"SSBK",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSBK04",
+         "name":"Securities, Insurance, and Investment",
+         "parent_committee_id":"SSBK",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSBK05",
+         "name":"National Security and International Trade and Finance",
+         "parent_committee_id":"SSBK",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSAS",
+         "name":"Senate Committee on Armed Services",
+         "subcommittee":false
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSAS13",
+         "name":"SeaPower",
+         "parent_committee_id":"SSAS",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSAS15",
+         "name":"Readiness and Management Support",
+         "parent_committee_id":"SSAS",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSAS14",
+         "name":"Airland",
+         "parent_committee_id":"SSAS",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSAS20",
+         "name":"Emerging Threats and Capabilities",
+         "parent_committee_id":"SSAS",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSAS16",
+         "name":"Strategic Forces",
+         "parent_committee_id":"SSAS",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSAS17",
+         "name":"Personnel",
+         "parent_committee_id":"SSAS",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSAP",
+         "name":"Senate Committee on Appropriations",
+         "subcommittee":false
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSAP24",
+         "name":"Transportation, Housing and Urban Development, and Related Agencies",
+         "parent_committee_id":"SSAP",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSAP23",
+         "name":"Financial Services and General Government",
+         "parent_committee_id":"SSAP",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSAP20",
+         "name":"State, Foreign Operations, and Related Programs",
+         "parent_committee_id":"SSAP",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSAP19",
+         "name":"Military Construction and Veterans Affairs, and Related Agencies",
+         "parent_committee_id":"SSAP",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSAP17",
+         "name":"Department of the Interior, Environment, and Related Agencies",
+         "parent_committee_id":"SSAP",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSAP22",
+         "name":"Energy and Water Development",
+         "parent_committee_id":"SSAP",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSAP18",
+         "name":"Departments of Labor, Health and Human Services, and Education, and Related Agencies",
+         "parent_committee_id":"SSAP",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSAP16",
+         "name":"Commerce, Justice, Science, and Related Agencies",
+         "parent_committee_id":"SSAP",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSAP14",
+         "name":"Department of Homeland Security",
+         "parent_committee_id":"SSAP",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSAP08",
+         "name":"Legislative Branch",
+         "parent_committee_id":"SSAP",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSAP02",
+         "name":"Department of Defense",
+         "parent_committee_id":"SSAP",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSAP01",
+         "name":"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",
+         "parent_committee_id":"SSAP",
+         "subcommittee":true
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SSAF",
+         "name":"Senate Committee on Agriculture, Nutrition, and Forestry",
+         "subcommittee":false
+      },
+      {
+         "chamber":"senate",
+         "committee_id":"SPAG",
+         "name":"Senate Special Committee on Aging",
+         "subcommittee":false
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSWM",
+         "name":"House Committee on Ways and Means",
+         "office":"1102 LHOB",
+         "phone":"(202) 225-3625",
+         "subcommittee":false
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSWM06",
+         "name":"Oversight",
+         "parent_committee_id":"HSWM",
+         "phone":"(202) 225-5522",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSWM04",
+         "name":"Trade",
+         "parent_committee_id":"HSWM",
+         "phone":"(202) 225-6649",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSWM01",
+         "name":"Social Security",
+         "parent_committee_id":"HSWM",
+         "phone":"(202) 225-9263",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSWM05",
+         "name":"Tax Policy",
+         "parent_committee_id":"HSWM",
+         "phone":"(202) 225-5522",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSWM03",
+         "name":"Human Resources",
+         "parent_committee_id":"HSWM",
+         "phone":"(202) 225-1025",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSWM02",
+         "name":"Health",
+         "parent_committee_id":"HSWM",
+         "phone":"(202) 225-3943",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSVR",
+         "name":"House Committee on Veterans' Affairs",
+         "office":"335 CHOB",
+         "phone":"(202) 225-3527",
+         "subcommittee":false
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSVR08",
+         "name":"Oversight and Investigations",
+         "parent_committee_id":"HSVR",
+         "phone":"(202) 225-3569",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSVR10",
+         "name":"Economic Opportunity",
+         "parent_committee_id":"HSVR",
+         "phone":"(202) 226-5491",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSVR09",
+         "name":"Disability Assistance and Memorial Affairs",
+         "parent_committee_id":"HSVR",
+         "phone":"(202) 225-9164",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSVR03",
+         "name":"Health",
+         "parent_committee_id":"HSVR",
+         "phone":"(202) 225-9154",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSSY",
+         "name":"House Committee on Science, Space, and Technology",
+         "office":"2321 RHOB",
+         "phone":"(202) 225-6371",
+         "subcommittee":false
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSSY21",
+         "name":"Oversight",
+         "parent_committee_id":"HSSY",
+         "phone":"(202) 225-6371",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSSY20",
+         "name":"Energy",
+         "parent_committee_id":"HSSY",
+         "phone":"(202) 225-6371",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSSY16",
+         "name":"Space",
+         "parent_committee_id":"HSSY",
+         "phone":"(202) 225-6371",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSSY18",
+         "name":"Environment",
+         "parent_committee_id":"HSSY",
+         "phone":"(202) 225-6371",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSSY15",
+         "name":"Research and Technology",
+         "parent_committee_id":"HSSY",
+         "phone":"(202) 225-6371",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSRU",
+         "name":"House Committee on Rules",
+         "office":"H312 CAPITOL",
+         "phone":"(202) 225-9191",
+         "subcommittee":false
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSRU04",
+         "name":"Rules and Organization of the House",
+         "parent_committee_id":"HSRU",
+         "phone":"(202) 225-9191",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSRU02",
+         "name":"Legislative and Budget Process",
+         "parent_committee_id":"HSRU",
+         "phone":"(202) 225-9191",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSPW",
+         "name":"House Committee on Transportation and Infrastructure",
+         "office":"2165 RHOB",
+         "phone":"(202) 225-9446",
+         "subcommittee":false
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSPW14",
+         "name":"Railroads, Pipelines, and Hazardous Materials",
+         "parent_committee_id":"HSPW",
+         "phone":"(202) 226-0727",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSPW12",
+         "name":"Highways and Transit",
+         "parent_committee_id":"HSPW",
+         "phone":"(202) 225-6715",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSPW13",
+         "name":"Economic Development, Public Buildings, and Emergency Management",
+         "parent_committee_id":"HSPW",
+         "phone":"(202) 225-3014",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSPW07",
+         "name":"Coast Guard and Maritime Transportation",
+         "parent_committee_id":"HSPW",
+         "phone":"(202) 226-3552",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSPW02",
+         "name":"Water Resources and Environment",
+         "parent_committee_id":"HSPW",
+         "phone":"(202) 225-4360",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSPW05",
+         "name":"Aviation",
+         "parent_committee_id":"HSPW",
+         "phone":"(202) 226-3220",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSJU",
+         "name":"House Committee on the Judiciary",
+         "office":"2138 RHOB",
+         "phone":"(202) 225-3951",
+         "subcommittee":false
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSJU10",
+         "name":"The Constitution and Civil Justice",
+         "parent_committee_id":"HSJU",
+         "phone":"(202) 225-2825",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSJU08",
+         "name":"Crime, Terrorism, Homeland Security, and Investigations",
+         "parent_committee_id":"HSJU",
+         "phone":"(202) 225-5727",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSJU05",
+         "name":"Regulatory Reform, Commercial, and Antitrust Law",
+         "parent_committee_id":"HSJU",
+         "phone":"(202) 226-7680",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSJU01",
+         "name":"Immigration and Border Security",
+         "parent_committee_id":"HSJU",
+         "phone":"(202) 225-3926",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSJU03",
+         "name":"Courts, Intellectual Property, and the Internet",
+         "parent_committee_id":"HSJU",
+         "phone":"(202) 225-5741",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSIF",
+         "name":"House Committee on Energy and Commerce",
+         "office":"2125 RHOB",
+         "phone":"(202) 225-2927",
+         "subcommittee":false
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSIF18",
+         "name":"Environment and the Economy",
+         "parent_committee_id":"HSIF",
+         "phone":"(202) 225-2927",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSIF16",
+         "name":"Communications and Technology",
+         "parent_committee_id":"HSIF",
+         "phone":"(202) 225-2927",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSIF14",
+         "name":"Health",
+         "parent_committee_id":"HSIF",
+         "phone":"(202) 225-2927",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSIF17",
+         "name":"Commerce, Manufacturing, and Trade",
+         "parent_committee_id":"HSIF",
+         "phone":"(202) 225-2927",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSIF02",
+         "name":"Oversight and Investigations",
+         "parent_committee_id":"HSIF",
+         "phone":"(202) 225-2927",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSIF03",
+         "name":"Energy and Power",
+         "parent_committee_id":"HSIF",
+         "phone":"(202) 225-2927",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSII",
+         "name":"House Committee on Natural Resources",
+         "office":"1324 LHOB",
+         "phone":"(202) 225-2761",
+         "subcommittee":false
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSII24",
+         "name":"Indian, Insular and Alaska Native Affairs",
+         "parent_committee_id":"HSII",
+         "phone":"(202) 226-9725",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSII22",
+         "name":"Fisheries, Wildlife, Oceans and Insular Affairs",
+         "parent_committee_id":"HSII",
+         "phone":"(202) 226-0200",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSII13",
+         "name":"Water, Power and Oceans",
+         "parent_committee_id":"HSII",
+         "phone":"(202) 225-8331",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSII15",
+         "name":"Oversight and Investigations",
+         "parent_committee_id":"HSII",
+         "phone":"(202) 225-7107",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSII10",
+         "name":"Federal Lands",
+         "parent_committee_id":"HSII",
+         "phone":"(202) 226-7736",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSII06",
+         "name":"Energy and Mineral Resources",
+         "parent_committee_id":"HSII",
+         "phone":"(202) 225-9297",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSHA",
+         "name":"House Committee on House Administration",
+         "office":"1309 LHOB",
+         "phone":"(202) 225-8281",
+         "subcommittee":false
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSGO",
+         "name":"House Committee on Oversight and Government Reform",
+         "office":"2157 RHOB",
+         "phone":"(202) 225-5074",
+         "subcommittee":false
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSGO28",
+         "name":"The Interior",
+         "parent_committee_id":"HSGO",
+         "phone":"(202) 225-5074",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSGO27",
+         "name":"Health Care, Benefits and Administrative Rules",
+         "parent_committee_id":"HSGO",
+         "phone":"(202) 225-5074",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSGO24",
+         "name":"Government Operations",
+         "parent_committee_id":"HSGO",
+         "phone":"(202) 225-5074",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSGO25",
+         "name":"Information Technology",
+         "parent_committee_id":"HSGO",
+         "phone":"(202) 225-5074",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSGO06",
+         "name":"National Security",
+         "parent_committee_id":"HSGO",
+         "phone":"(202) 225-5074",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSFA",
+         "name":"House Committee on Foreign Affairs",
+         "office":"2170 RHOB",
+         "phone":"(202) 225-5021",
+         "subcommittee":false
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSFA18",
+         "name":"Terrorism, Nonproliferation, and Trade",
+         "parent_committee_id":"HSFA",
+         "phone":"(202) 226-1500",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSFA16",
+         "name":"Africa, Global Health, Global Human Rights, and International Organizations",
+         "parent_committee_id":"HSFA",
+         "phone":"(202) 226-7812",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSFA13",
+         "name":"The Middle East and North Africa",
+         "parent_committee_id":"HSFA",
+         "phone":"(202) 225-3345",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSFA14",
+         "name":"Europe, Eurasia, and Emerging Threats",
+         "parent_committee_id":"HSFA",
+         "phone":"(202) 226-6434",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSFA07",
+         "name":"The Western Hemisphere",
+         "parent_committee_id":"HSFA",
+         "phone":"(202) 226-9980",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSFA05",
+         "name":"Asia and the Pacific",
+         "parent_committee_id":"HSFA",
+         "phone":"(202) 226-7825",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSED",
+         "name":"House Committee on Education and the Workforce",
+         "office":"2176 RHOB",
+         "phone":"(202) 225-4527",
+         "subcommittee":false
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSED14",
+         "name":"Early Childhood, Elementary, and Secondary Education",
+         "parent_committee_id":"HSED",
+         "phone":"(202) 225-4527",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSED13",
+         "name":"Higher Education and Workforce Training",
+         "parent_committee_id":"HSED",
+         "phone":"(202) 225-4527",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSED10",
+         "name":"Workforce Protections",
+         "parent_committee_id":"HSED",
+         "phone":"(202) 225-4527",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSED02",
+         "name":"Health, Employment, Labor, and Pensions",
+         "parent_committee_id":"HSED",
+         "phone":"(202) 225-4527",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSBA",
+         "name":"House Committee on Financial Services",
+         "office":"2129 RHOB",
+         "phone":"(202) 225-7502",
+         "subcommittee":false
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSBA20",
+         "name":"Monetary Policy and Trade",
+         "parent_committee_id":"HSBA",
+         "phone":"(202) 225-7502",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSBA15",
+         "name":"Financial Institutions and Consumer Credit",
+         "parent_committee_id":"HSBA",
+         "phone":"(202) 225-7502",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSBA16",
+         "name":"Capital Markets and Government Sponsored Enterprises",
+         "parent_committee_id":"HSBA",
+         "phone":"(202) 225-7502",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSBA04",
+         "name":"Housing and Insurance",
+         "parent_committee_id":"HSBA",
+         "phone":"(202) 225-7502",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSBA09",
+         "name":"Oversight and Investigations",
+         "parent_committee_id":"HSBA",
+         "phone":"(202) 225-7502",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSAS",
+         "name":"House Committee on Armed Services",
+         "office":"2216 RHOB",
+         "phone":"(202) 225-4151",
+         "subcommittee":false
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSAS28",
+         "name":"Seapower and Projection Forces",
+         "parent_committee_id":"HSAS",
+         "phone":"(202) 226-2211",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSAS26",
+         "name":"Emerging Threats and Capabilities",
+         "parent_committee_id":"HSAS",
+         "phone":"(202) 226-2843",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSAS25",
+         "name":"Tactical Air and Land Forces",
+         "parent_committee_id":"HSAS",
+         "phone":"(202) 225-4440",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSAS29",
+         "name":"Strategic Forces",
+         "parent_committee_id":"HSAS",
+         "phone":"(202) 225-1967",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSAS03",
+         "name":"Readiness",
+         "parent_committee_id":"HSAS",
+         "phone":"(202) 226-8979",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSAS02",
+         "name":"Military Personnel",
+         "parent_committee_id":"HSAS",
+         "phone":"(202) 225-7560",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSAS06",
+         "name":"Oversight and Investigations",
+         "parent_committee_id":"HSAS",
+         "phone":"(202) 226-5048",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSAP",
+         "name":"House Committee on Appropriations",
+         "office":"H305 CAPITOL",
+         "phone":"(202) 225-2771",
+         "subcommittee":false
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSAP07",
+         "name":"Labor, Health and Human Services, Education, and Related Agencies",
+         "parent_committee_id":"HSAP",
+         "phone":"(202) 225-3508",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSAP06",
+         "name":"Interior, Environment, and Related Agencies",
+         "parent_committee_id":"HSAP",
+         "phone":"(202) 225-3081",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSAP04",
+         "name":"State, Foreign Operations, and Related Programs",
+         "parent_committee_id":"HSAP",
+         "phone":"(202) 225-2041",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSAP10",
+         "name":"Energy and Water Development, and Related Agencies",
+         "parent_committee_id":"HSAP",
+         "phone":"(202) 225-3421",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSAP02",
+         "name":"Defense",
+         "parent_committee_id":"HSAP",
+         "phone":"(202) 225-2847",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSAP01",
+         "name":"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",
+         "parent_committee_id":"HSAP",
+         "phone":"(202) 225-2638",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSAG",
+         "name":"House Committee on Agriculture",
+         "office":"1301 LHOB",
+         "phone":"(202) 225-2171",
+         "subcommittee":false
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSAG29",
+         "name":"Livestock and Foreign Agriculture",
+         "parent_committee_id":"HSAG",
+         "phone":"(202) 225-2171",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSAG14",
+         "name":"Biotechnology, Horticulture, and Research",
+         "parent_committee_id":"HSAG",
+         "phone":"(202) 225-2171",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSAG16",
+         "name":"General Farm Commodities and Risk Management",
+         "parent_committee_id":"HSAG",
+         "phone":"(202) 225-2171",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSAG15",
+         "name":"Conservation and Forestry",
+         "parent_committee_id":"HSAG",
+         "phone":"(202) 225-2171",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSAG22",
+         "name":"Commodity Exchanges, Energy, and Credit",
+         "parent_committee_id":"HSAG",
+         "phone":"(202) 225-2171",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSAG03",
+         "name":"Nutrition",
+         "parent_committee_id":"HSAG",
+         "phone":"(202) 225-2171",
+         "subcommittee":true
+      },
+      {
+         "chamber":"house",
+         "committee_id":"HSSO",
+         "name":"House Committee on Ethics",
+         "office":"1015 LHOB",
+         "phone":"(202) 225-7103",
+         "subcommittee":false
+      }
+   ],
+   "count":228,
+   "page":{
+      "count":228,
+      "per_page":null,
+      "page":null
+   }
+}
