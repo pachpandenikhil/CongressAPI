@@ -1,6 +1,4 @@
 # CongressAPI
-<br/>
-<br/>
 •	Responsive website that allows users to search for the people and work of Congress using the Sunlight Foundation JSON APIs.<br/>
 •	Developed as per the MVC architecture with HTML5 and AngularJS for front-end, PHP for back-end and HTML5 local storage for data persistence.<br/>
 •	Implemented AngularJS pagination, sorting, filtering and http for data manipulation.<br/>
@@ -11,7 +9,7 @@
 Website: http://bit.ly/2eqpNS3
 <br/>
 <br/>
-Demo: 
+Demo: <br/>
 •	Desktop: https://youtu.be/chPZuPV5Sw8<br/>
 •	Mobile: https://youtu.be/-izwkSrYtoQ 
 <br/>
