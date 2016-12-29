@@ -1,5 +1,4 @@
 # CongressAPI
-Responsive website using AngularJS
 <br/>
 <br/>
 •	Responsive website that allows users to search for the people and work of Congress using the Sunlight Foundation JSON APIs.<br/>
@@ -13,7 +12,7 @@ Website: http://bit.ly/2eqpNS3
 <br/>
 <br/>
 Demo: 
-•	Desktop: https://youtu.be/chPZuPV5Sw8
+•	Desktop: https://youtu.be/chPZuPV5Sw8<br/>
 •	Mobile: https://youtu.be/-izwkSrYtoQ 
 <br/>
 <br/>
