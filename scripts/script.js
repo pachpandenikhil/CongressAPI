@@ -77,7 +77,7 @@ function getProgressBarHtml(start, end) {
 	//calculating percentage
 	var percentage = (num_s/den_s) * 100;
 	percentage = Math.round(percentage);
-
+	percentage = Math.min(100, percentage)
 	var html = '<div class="img-rounded" id="termProgress"><div id="termBar" style="width:'+ percentage +'%;"><div id="progressLabel">'+ percentage +'%</div></div>&nbsp;</div>';
 
 	return html;
