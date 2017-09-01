@@ -12,4 +12,4 @@ Demo:
 
 - Mobile: https://youtu.be/-izwkSrYtoQ 
 
-Core Technology: HTML5, CSS3, JavaScript, AJAX, AngularJS, jQuery, Bootstrap, PHP, REST, JSON.
+Core Technology: HTML5, CSS3, JavaScript, AJAX, AngularJS, jQuery, Bootstrap, PHP, REST, JSON, AWS (Amazon EC2).
