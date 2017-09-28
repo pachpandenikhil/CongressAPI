@@ -3,7 +3,7 @@
 - Developed as per the MVC architecture with HTML5 and AngularJS for front-end, PHP for back-end and HTML5 local storage for data persistence.
 - Implemented AngularJS pagination, sorting, filtering and http for data manipulation.
 - Utilized Bootstrap grid systems and CSS3 media queries for responsiveness.
-- Deployed on Amazon Web Services(AWS) Cloud.
+- Deployed on Amazon Web Services (AWS) Cloud.
 
 Website: http://bit.ly/2xNORep
 
@@ -11,5 +11,5 @@ Demo:
 - Desktop: https://youtu.be/chPZuPV5Sw8
 
 - Mobile: https://youtu.be/-izwkSrYtoQ 
-
-Core Technology: HTML5, CSS3, JavaScript, AJAX, AngularJS, jQuery, Bootstrap, PHP, REST, JSON, AWS (Amazon EC2).
+bean
+Core Technology: HTML5, CSS3, JavaScript, AJAX, AngularJS, jQuery, Bootstrap, PHP, REST, JSON, AWS (Amazon Elastic Beanstalk).
