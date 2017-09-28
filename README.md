@@ -5,7 +5,7 @@
 - Utilized Bootstrap grid systems and CSS3 media queries for responsiveness.
 - Deployed on Amazon Web Services(AWS) Cloud.
 
-Website: http://bit.ly/2eqpNS3
+Website: http://bit.ly/2xNORep
 
 Demo:
 - Desktop: https://youtu.be/chPZuPV5Sw8
